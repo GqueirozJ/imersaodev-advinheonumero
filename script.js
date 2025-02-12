@@ -13,4 +13,3 @@ function Chutar() {
   } else {
     elementoResultado.innerHTML = "Você errou! :(";
   }
-}
